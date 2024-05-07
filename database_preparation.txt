@@ -1,0 +1,17 @@
+
+
+Manipulations performed in order to create a database design for Superstore Project:
+
+1. I have changed Order date and Ship date to be YYYY/MM/DD (can be ordered easily even when seen as a string).
+2. I have rounded the Profit and Sales values to the 2nd decimal
+3. Created ProductPrice and SupplierPrice based on the formulas: 
+   * ProductPrice=(Sales/Quantity)/(1-Discount) 
+   * SupplierPrice=(Sales-Profit)/Quantity
+4. I have turned ProductPrice and SupplierPrice into cents
+5. The name of the columns were changed to the standardized sqlite(example:CustomerName)
+6. I have changed the column name Segment to CustomerType, just for user-friendly reasons
+7. I have created two new unique value Columns AddressID and SalesID
+8. I have corrected the ProducID so there are no duplicates (there were around 50 duplicates,
+ same ProductID but different ProductName and ProductPrice)
+9. Final Tables = ['Customers', 'Address', 'Products', 'Shipment', 'OrderDetails']4
+10. The attached PNG file is a visual presentation of the Database Design
