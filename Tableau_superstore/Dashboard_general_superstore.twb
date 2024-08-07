@@ -16319,24 +16319,24 @@
                 <order field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Segment]' />
                 <order field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Category]' />
               </table-calc>
-              <table-calc field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Calculation_8950329121202785]' ordering-type='Field'>
-                <order field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Segment]' />
+              <table-calc field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Calculation_5790329121624550]' ordering-type='Field'>
                 <order field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Category]' />
+                <order field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Segment]' />
               </table-calc>
               <table-calc field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Calculation_4020329132355237]' level-address='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Category]' ordering-type='Field'>
                 <order field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Category]' />
                 <order field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Segment]' />
               </table-calc>
-              <table-calc field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Calculation_5790329121624550]' ordering-type='Field'>
-                <order field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Category]' />
+              <table-calc field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Calculation_8950329121202785]' ordering-type='Field'>
                 <order field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Segment]' />
+                <order field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Category]' />
               </table-calc>
               <table-calc field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Calculation_1490329120836378]' ordering-type='Field'>
                 <order field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Segment]' />
                 <order field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Category]' />
               </table-calc>
-              <table-calc field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Calculation_5630132859847110691]' ordering-field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Path (bin)]' ordering-type='Field' />
               <table-calc field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Curve A Max Win (copy)_3750372598178869248]' ordering-type='Rows' />
+              <table-calc field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Calculation_5630132859847110691]' ordering-field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Path (bin)]' ordering-type='Field' />
               <table-calc field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Calculation_5630132859843854368]' ordering-type='Rows' />
               <table-calc field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[N0 Position Max Win (copy)]' ordering-field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Path (bin)]' ordering-type='Field' />
               <table-calc field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[N1a Position Max (copy)]' ordering-field='[federated.1qpsvgp0iyhdkl132taqu1bnt2c7].[Path (bin)]' ordering-type='Field' />
@@ -21688,8 +21688,8 @@ State: <[federated.13ovwo2042n4lg14wl5c51gxffdi].[none:State:nk]>]]></run>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2650' minheight='2650' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='341' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='340' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
+            <zone h='100000' id='343' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='342' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='32333' id='141' is-centered='0' is-fixed='true' is-scaled='1' param='C:/Users/gabb_/OneDrive/Desktop/SQLite Challange/Superstore_Project/Tableau_superstore/Files for Project 5 Tabeau/aayeu1lyl.png' type-v2='bitmap' w='19875' x='6375' y='-2111'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -21935,8 +21935,8 @@ State: <[federated.13ovwo2042n4lg14wl5c51gxffdi].[none:State:nk]>]]></run>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1150' minheight='1150' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='50' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='49' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
+            <zone h='100000' id='52' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='51' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='12333' id='5' type-v2='text' w='46813' x='24938' y='1778'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#f5f5f5' fontname='Rockwell Condensed' fontsize='24'>Meet </run>
@@ -22197,8 +22197,8 @@ State: <[federated.13ovwo2042n4lg14wl5c51gxffdi].[none:State:nk]>]]></run>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='3900' minheight='3900' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='369' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='368' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
+            <zone h='100000' id='371' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='370' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='268' h='29778' id='54' is-centered='0' is-fixed='true' is-scaled='1' param='C:/Users/gabb_/OneDrive/Desktop/SQLite Challange/Superstore_Project/Tableau_superstore/Files for Project 5 Tabeau/transparent-memo-red-pen-arrow-pen-metal-plate-pencil-red-pen-arrow-on-plate-pencil-horizontal6627c48ca90929.45284471.png' type-v2='bitmap' w='23563' x='3563' y='222'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -22512,8 +22512,8 @@ State: <[federated.13ovwo2042n4lg14wl5c51gxffdi].[none:State:nk]>]]></run>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2450' minheight='2450' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='370' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='369' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
+            <zone h='100000' id='372' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='371' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='100000' id='104' is-centered='0' is-fixed='true' param='C:/Users/gabb_/OneDrive/Desktop/SQLite Challange/Superstore_Project/Tableau_superstore/Files for Project 5 Tabeau/Executive Dashboard (3).png' type-v2='bitmap' w='100000' x='0' y='0'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -22819,8 +22819,8 @@ State: <[federated.13ovwo2042n4lg14wl5c51gxffdi].[none:State:nk]>]]></run>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2150' minheight='2150' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='136' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='135' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
+            <zone h='100000' id='138' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='137' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='15222' id='102' type-v2='dashboard-object' w='12000' x='86438' y='2222'>
                   <button action='tabdoc:goto-sheet window-id=&quot;{BCCCC814-64E2-4EF1-8BE4-B7CD0709823D}&quot;'>
                     <button-visual-state>
@@ -23149,8 +23149,8 @@ State: <[federated.13ovwo2042n4lg14wl5c51gxffdi].[none:State:nk]>]]></run>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2550' minheight='2550' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='341' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='340' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
+            <zone h='100000' id='343' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98222' id='342' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
                 <zone fixed-size='280' h='104778' id='261' is-centered='0' is-fixed='true' param='C:/Users/gabb_/OneDrive/Desktop/SQLite Challange/Superstore_Project/Tableau_superstore/Files for Project 5 Tabeau/darker.png' type-v2='bitmap' w='101813' x='-750' y='-2556'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -23378,8 +23378,8 @@ State: <[federated.13ovwo2042n4lg14wl5c51gxffdi].[none:State:nk]>]]></run>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1450' minheight='1450' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='337' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='336' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='339' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='338' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='98222' id='6' is-fixed='true' is-scaled='1' param='C:/Users/gabb_/OneDrive/Desktop/SQLite Challange/Superstore_Project/Tableau_superstore/background_office_supplies.png' type-v2='bitmap' w='99000' x='500' y='889'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -23495,8 +23495,8 @@ State: <[federated.13ovwo2042n4lg14wl5c51gxffdi].[none:State:nk]>]]></run>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='850' minheight='850' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='36' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='35' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
+            <zone h='100000' id='38' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='37' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='23444' id='17' type-v2='text' w='71563' x='12188' y='889'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#ffffff' fontsize='36'>TOP Customer 2016 : Tamara Chan, Indiana, 23, Corporate</run>
@@ -23569,8 +23569,8 @@ State: <[federated.13ovwo2042n4lg14wl5c51gxffdi].[none:State:nk]>]]></run>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='36' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='35' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
+            <zone h='100000' id='38' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='37' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='23444' id='19' type-v2='text' w='71563' x='18813' y='2000'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#ffffff' fontsize='36'>TOP Customer 2017 : Raymond Buch, Washington, 34, Consumer</run>
@@ -23634,8 +23634,8 @@ State: <[federated.13ovwo2042n4lg14wl5c51gxffdi].[none:State:nk]>]]></run>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='35' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='34' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
+            <zone h='100000' id='37' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='36' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='190' h='21111' id='21' is-centered='0' is-fixed='true' is-scaled='1' param='C:/Users/gabb_/OneDrive/Desktop/SQLite Challange/Superstore_Project/Tableau_superstore/Files for Project 5 Tabeau/kisspng-trophy-gold-medal-clip-art-winner-5ab927423c6678.2228762015220836502474.png' type-v2='bitmap' w='16438' x='-313' y='1667'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -23698,8 +23698,8 @@ State: <[federated.13ovwo2042n4lg14wl5c51gxffdi].[none:State:nk]>]]></run>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='18' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='17' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
+            <zone h='100000' id='20' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='19' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='23444' id='2' type-v2='text' w='71563' x='14813' y='-889'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#ffffff' fontsize='36'>Thank you for Your attention!</run>
@@ -23775,7 +23775,7 @@ State: <[federated.13ovwo2042n4lg14wl5c51gxffdi].[none:State:nk]>]]></run>
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='360' />
+      <active id='-1' />
       <simple-id uuid='{583890E6-3551-4811-8CD9-AAD1FC550559}' />
     </window>
     <window class='dashboard' name='Office Supplies Dashboard'>
@@ -23802,7 +23802,7 @@ State: <[federated.13ovwo2042n4lg14wl5c51gxffdi].[none:State:nk]>]]></run>
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='351' />
+      <active id='-1' />
       <simple-id uuid='{BF3A461D-E880-4845-A17C-435E5CF051F2}' />
     </window>
     <window class='dashboard' name='Furniture Dashboard'>
@@ -23820,7 +23820,7 @@ State: <[federated.13ovwo2042n4lg14wl5c51gxffdi].[none:State:nk]>]]></run>
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='161' />
+      <active id='-1' />
       <simple-id uuid='{CB339D41-82FC-41B3-8813-C183BF556E55}' />
     </window>
     <window class='dashboard' maximized='true' name='Technology Dashboard'>
@@ -23862,12 +23862,12 @@ State: <[federated.13ovwo2042n4lg14wl5c51gxffdi].[none:State:nk]>]]></run>
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='102' />
+      <active id='-1' />
       <simple-id uuid='{C09D6F58-25E5-498F-8258-4AA7B42183C1}' />
     </window>
     <window class='dashboard' name='Machine Learning'>
       <viewpoints />
-      <active id='30' />
+      <active id='-1' />
       <simple-id uuid='{BCCCC814-64E2-4EF1-8BE4-B7CD0709823D}' />
     </window>
     <window class='dashboard' name='Thank you 1'>
@@ -23877,12 +23877,12 @@ State: <[federated.13ovwo2042n4lg14wl5c51gxffdi].[none:State:nk]>]]></run>
     </window>
     <window class='dashboard' name='Thank you 2'>
       <viewpoints />
-      <active id='22' />
+      <active id='-1' />
       <simple-id uuid='{E0ED540F-E97A-4016-922C-ECFA5606950B}' />
     </window>
     <window class='dashboard' name='Thank you 3'>
       <viewpoints />
-      <active id='17' />
+      <active id='-1' />
       <simple-id uuid='{2CD627E9-56B8-4659-963D-7EBA1FC147E1}' />
     </window>
     <window class='dashboard' name='Thank you 4'>
